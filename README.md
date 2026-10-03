@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rashi Rathore
 
-<!--
-**rashirathore09/rashirathore09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MBA graduate with dual specialization in Human Resource Management and Finance, based in Bengaluru, India. I'm starting my career in Human Resources and looking for entry-level opportunities.
 
-Here are some ideas to get you started:
+## Areas of interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HR operations and coordination
+- Recruitment and talent acquisition
+- Onboarding and employee engagement
+
+## Background
+
+- MBA, dual specialization in Human Resource Management and Finance — IPS Academy, Indore
+- HR internship experience supporting recruitment coordination, onboarding, and employee engagement
+- Academic project on digital banking adoption and customer satisfaction
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/rashirathore09/)
+
+---
+
+This is a draft for a GitHub profile README. To display it on the profile, copy this content into `README.md` in a public repository named `rashirathore09`.
